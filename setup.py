@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='Template',
-    author='World Resources Institute',
+    description='description template',
+    author='John Brandt',
     license='MIT',
 )
