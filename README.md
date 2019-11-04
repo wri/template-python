@@ -13,6 +13,10 @@ The template pre-populates the following important items:
 *  GitHub workflows to build and push Docker images, and to test the Python package installation for CI/CD
 *  Automated actions to create a pull request fixing PEP8 Issues
 
+Note:
+
+*  As an Enterprise organization, WRI receives 50,000 free minutes of CI/CD time per month. The CI/CD for this template takes about 6/minutes of time per push.
+
 Project Organization
 ------------
 
