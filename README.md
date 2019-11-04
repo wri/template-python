@@ -7,7 +7,7 @@ The template pre-populates the following important items:
 
 *  MIT License
 *  Requirements.txt and setup.py for environment set-up
-*  Tox.ini for automated unit tests
+*  Tox.ini for automated unit tests -- which will be run for each commit by GitHub actions
 *  Makefile
 *  Folders to remind users to keep data, documentation, references, notebooks, and source files separate.
 *  GitHub workflows to build and push Docker images, and to test the Python package installation for CI/CD
