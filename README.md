@@ -1,7 +1,15 @@
 template
 ==============================
 
-description template
+This template repository contains standardized folder structures and best practices for reproducibility. It is designed to be used as a template when creating a new repository.
+
+The template pre-populates the following important items:
+
+*  MIT License
+*  Requirements.txt and setup.py for environment set-up
+*  Tox.ini for automated unit tests
+*  Makefile
+*  Folders to remind users to keep data, documentation, references, notebooks, and source files separate.
 
 Project Organization
 ------------
