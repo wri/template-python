@@ -10,6 +10,7 @@ The template pre-populates the following important items:
 *  Tox.ini for automated unit tests
 *  Makefile
 *  Folders to remind users to keep data, documentation, references, notebooks, and source files separate.
+*  GitHub workflows to build and push Docker images, and to test the Python package installation for CI/CD
 
 Project Organization
 ------------
